@@ -1,6 +1,6 @@
-# Revolut Customer Churn Analysis
+# Bank Customer Churn Analysis
 
-This project aims to analyze revolut's customer churn dataset and develop models to predict customer attrition. The analysis starts with data exploration, visualization, and preprocessing steps, followed by model selection and evaluation.
+This project aims to analyze a bank's customer churn dataset (Kaggle BankChurners) and develop models to predict customer attrition. The analysis starts with data exploration, visualization, and preprocessing steps, followed by model selection and evaluation.
 
 ## Data Exploration
 The dataset contains information about bank customers, including their demographics, account details, and churn status. The analysis begins with an overview of the data distribution through various visualizations:
